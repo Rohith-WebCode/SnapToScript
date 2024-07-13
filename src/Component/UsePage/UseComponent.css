@@ -1,0 +1,25 @@
+#top{
+    padding: 1rem;
+    background-color: #fff;
+    margin: 1rem auto 0;
+    border-radius: 15px;
+    position: relative;
+    max-width: 88%;
+    box-shadow: 8px 9px 8px lightblue;
+    text-align: start;
+    margin-top: 80px;
+    color: rgba(24, 64, 132, 1);
+
+}
+.head2{
+    font-weight: bolder;
+    font-style: italic;
+    /* color: blueviolet; */
+}
+.Text{
+    font-style: oblique;
+}
+.ultext{
+    font-style: oblique;
+
+}
