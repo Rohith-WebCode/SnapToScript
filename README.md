@@ -1,1 +1,1 @@
-website link: https://rohithprakashdiv.github.io/SnapToScript/
+website link: https://rohith-webcode.github.io/SnapToScript/
